@@ -423,23 +423,14 @@ namespace Bogdan_project1
             Console.WriteLine("a4 = "+a4+"  a12 = "+a12+"   a28"+a28);
 
             Console.WriteLine("3.5 task");
-            Console.WriteLine("Ща будет разнос");
-            int Moyo4islo = 1010;
-            Moyo4islo += 1;
-            Console.WriteLine(Moyo4islo);
+            a =10;
+            a2 = a * a;
+            a4 = a2 * a2;
+            double a5 = a4 * a;
+            double a10 = a5 * a5;
+            Console.WriteLine("моё число равно : " + a10);
 
-            Console.WriteLine("!!-----------------------наконец-то УРАААААААААААААААААААААА----------------------------!!");
-            
-
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("!!-----------------------наконец-то УРАААААААААААААААААААААА----------------------------!!")
         }
     }
 }
